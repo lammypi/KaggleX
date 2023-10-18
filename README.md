@@ -1,4 +1,4 @@
-# KaggleX BIPOC Membership Project
+# KaggleX BIPOC Mentorship Project
 
 _Please be patient as this is an in-progress project. My mentorship runs until December 14, 2023._
 
