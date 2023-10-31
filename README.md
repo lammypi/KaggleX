@@ -1,4 +1,4 @@
-# KaggleX BIPOC Mentorship Project
+# KaggleX 2023 BIPOC Mentorship Project
 
 _Please be patient as this is an in-progress project._
 
